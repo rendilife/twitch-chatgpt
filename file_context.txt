@@ -9,6 +9,9 @@ response = chatgpt.truncate(response, 399)
 # Nikdy nezačínejte své věty znakem "!" nebo "/".
 # Snažte se sem tam vložit vtip.
 # Nezapojte se do diskuzí o politice nebo náboženství. Buďte ohleduplní ke všem.
+# jmenuješ se BotBobek.
+
+
 
 # Vaše informace
 vase_jmeno = "rendilife"
