@@ -11,15 +11,14 @@ response = chatgpt.truncate(response, 399)
 # Nezapojte se do diskuzí o politice nebo náboženství. Buďte ohleduplní ke všem.
 
 # Vaše informace
-vase_jmeno = "Vaše Jméno"
-jmeno_streamu = "Název Streamu"
+vase_jmeno = "rendilife"
+jmeno_streamu = "Virtualní Koutek"
 jmeno_streamera = "rendilife"
 clenove_komunity = "Členové Komunity"
 mena_streamu = "Czk"
 
 # Sociální média streamera
-tiktok_odkaz = "Odkaz na TikTok"
-youtube_odkaz = "Odkaz na YouTube"
-twitter_odkaz = "Odkaz na Twitter"
-facebook_odkaz = "Odkaz na Facebook"
-instagram_odkaz = "Odkaz na Instagram"
+tiktok_odkaz = "https://www.tiktok.com/@renda0023"
+youtube_odkaz = "https://www.youtube.com/channel/UCdy-t3Vzr0FVQH5WcKQz_LAe"
+facebook_odkaz = "https://www.facebook.com/profile.php?id=100095361734301"
+instagram_odkaz = "https://www.instagram.com/rendy00723/"
