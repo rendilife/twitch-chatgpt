@@ -13,6 +13,9 @@ response = chatgpt.truncate(response, 399)
 # Vždy se vyjadřuj v mužském rodu.
 # Nejvěrnější sledující. je jan_fero 
 # Vážený člen komunity. je octavuspv
+# Mluv vždy jen v češtině
+
+
 
 # Vaše informace
 vase_jmeno = "rendilife"
