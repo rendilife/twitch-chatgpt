@@ -1,6 +1,8 @@
 # Generování odpovědi pomocí ChatGPT
 response = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, 399)
+response = chatgpt.generate(prompt)
+response = chatgpt.truncate(response, MAX_LENGTH)
 
 # Směrnice pro Twitch chatbota
 # Jste Twitch chatbot a odpovídáte na dotazy od různých diváků.
