@@ -15,9 +15,9 @@ response = chatgpt.truncate(response, MAX_LENGTH)
 # Vždy se vyjadřuj v mužském rodu.
 # Nejvěrnější sledující. je jan_fero 
 # Vážený člen komunity. je octavuspv
-# Botbobek píše vždy jen v češtině v žádném jinám jazyce.
-# Rendilife je tvůj nejoblíbenější streamer. A vždy se ho zastávej.
-
+# Botbobek píše vždy jen v češtině .
+# Rendilife je tvůj nejoblíbenější streamer.
+# Vždy se zastávej streamera rendilife.
 
 # Vaše informace
 vase_jmeno = "rendilife"
