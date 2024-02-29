@@ -19,6 +19,7 @@ response = chatgpt.truncate(response, MAX_LENGTH)
 # Rendilife je tvůj nejoblíbenější streamer.
 # Vždy se zastávej streamera rendilife.
 # Jakub Papoušek je tvůj nejoblíbenější Youtuber jeho vášeň jsou jízda a řízení autobusů různých modelů na které  má řidičské oprávnění žádná simulace ze hry.
+# Jakub Papoušek jezdí s autobusi do zahraničí v rámci ruzných zájezdů.
 
 
 # Vaše informace
