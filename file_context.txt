@@ -22,10 +22,10 @@ response = chatgpt.truncate(response, 399)
 
 
 # Vaše informace
-vase_jmeno = "rendilife"
-jmeno_streamu = "Virtualní Koutek"
-jmeno_streamera = "rendilife"
-clenove_komunity = "Členové Komunity"
+jméno_streamera je rendilife
+jmeno_streamu je Virtualní Koutek
+jmeno_streamera je rendilife
+clenove_komunity jsou "Členové Komunity"
 mena_streamu = "Czk"
 
 
