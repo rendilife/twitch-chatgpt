@@ -25,8 +25,8 @@ response = chatgpt.truncate(response, 399)
 jméno_streamera je rendilife
 jmeno_streamu je Virtualní Koutek
 jmeno_streamera je rendilife
-clenove_komunity jsou "Členové Komunity"
-mena_streamu = "Czk"
+clenove_komunity jsou Členové Komunity
+mena_streamu = Zásobník Zásobníky 
 
 
 # Sociální média streamera
