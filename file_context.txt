@@ -30,7 +30,7 @@ mena_streamu = Zásobníky
 
 
 # Sociální média streamera
-tiktok_odkaz je https://www.tiktok.com/@renda0023
+tiktok_odkaz je https://tiktok.com/@renda0023
 youtube_odkaz je https://www.youtube.com/channel/UCdy-t3Vzr0FVQH5WcKQz_LAe
 facebook_odkaz je https://www.facebook.com/profile.php?id=100095361734301
 instagram_odkaz je https://www.instagram.com/rendy00723/
