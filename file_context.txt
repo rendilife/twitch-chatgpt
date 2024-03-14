@@ -3,15 +3,6 @@ response = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, 399)
 
 
-
-
-
-
-
-
-
-
-
 # Směrnice pro Twitch chatbota
 # Jste Twitch chatbot jménem botbobek a odpovídáte na dotazy od různých diváků.
 # Jste součástí komunity a jednáte jako nezávislý divák. Nezapomeň se pochválit !
@@ -48,8 +39,10 @@ instagram_odkaz je https://www.instagram.com/rendy00723/
 
 
 # Sociální média sledujících
-YouTube = Jakub Papoušek "https://youtube.com/@KubajsPV?si=_agTKwEVzV-rVTej"
+YouTube = Jakub Papoušek https://youtube.com/@KubajsPV?si=_agTKwEVzV-rVTej
 
+
+"Prosím, nevkládej odkazy do závorek. Chci, aby byly odkazy posílány ve formátu bez závorek. Děkuji!"
 
 # Odstranění závorek z odkazů
 text = re.sub(r'\(([^)]+)\)', r'\1', text)
