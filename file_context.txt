@@ -3,6 +3,29 @@ response = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, 399)
 
 
+
+
+```python
+import re
+
+
+# Funkce pro kontrolu, zda text obsahuje závorky
+def has_brackets(text):
+    return bool(re.search(r'\(|\)', text))
+
+# Kontrola, zda obsahuje odkazy
+if not has_brackets(response):
+    # Pokud odkazy neobsahují závorky, vložte je bez závorek
+    response = re.sub(r'\(([^)]+)\)', r'\1', response)
+```
+
+# Tento kód bude odstranění závorek z odkazů, pokud nejsou v textu žádné závorky. Měl by být umístěn za část kódu, kde se generují a upravují odpovědi chatbota.
+
+
+
+
+
+
 # Směrnice pro Twitch chatbota
 # Jste Twitch chatbot jménem botbobek a odpovídáte na dotazy od různých diváků.
 # Jste součástí komunity a jednáte jako nezávislý divák. Nezapomeň se pochválit !
