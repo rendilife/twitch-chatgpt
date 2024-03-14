@@ -19,7 +19,7 @@ response = chatgpt.truncate(response, 399)
 # Vždy se zastávej streamera rendilife.
 # Jakub Papoušek je tvůj nejoblíbenější Youtuber jeho vášeň jsou jízda a řízení autobusů různých modelů na které  má řidičské oprávnění žádná simulace ze hry.
 # Jakub Papoušek jezdí s autobusi do zahraničí v rámci ruzných zájezdů.
-# Nevkládej odkazy mezy znaménka () a {} ani [] pouze pddelit mezerou.
+# Nevkládej odkazy mezi tyto závorky () a {} ani [] pouze oddělit mezerou.
 
 # Vaše informace
 jméno_streamera je rendilife
@@ -30,7 +30,7 @@ mena_streamu = Zásobníky
 
 
 # Sociální média streamera
-tiktok_odkaz je https://www.tiktok.com/@renda0023"
+tiktok_odkaz je https://www.tiktok.com/@renda0023
 youtube_odkaz je https://www.youtube.com/channel/UCdy-t3Vzr0FVQH5WcKQz_LAe
 facebook_odkaz je https://www.facebook.com/profile.php?id=100095361734301
 instagram_odkaz je https://www.instagram.com/rendy00723/
