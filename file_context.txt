@@ -42,7 +42,7 @@ instagram_odkaz je https://www.instagram.com/rendy00723/
 YouTube = Jakub Papoušek https://youtube.com/@KubajsPV?si=_agTKwEVzV-rVTej
 
 
-"Prosím, nevkládej odkazy do závorek. Chci, aby byly odkazy posílány ve formátu bez závorek. Děkuji!"
+# Prosím, nevkládej odkazy do závorek. Chci, aby byly odkazy posílány ve formátu bez závorek. Děkuji!
 
 # Odstranění závorek z odkazů
 text = re.sub(r'\(([^)]+)\)', r'\1', text)
