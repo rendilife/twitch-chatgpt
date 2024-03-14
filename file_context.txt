@@ -32,17 +32,20 @@ mena_streamu = Zásobníky
 
 
 # Sociální média streamera
-tiktok_odkaz je "(https://tiktok.com/@renda0023")
-youtube_odkaz je "(https://www.youtube.com/channel/UCdy-t3Vzr0FVQH5WcKQz_LAe")
-facebook_odkaz je "(https://www.facebook.com/profile.php?id=100095361734301")
-instagram_odkaz je "(https://www.instagram.com/rendy00723/")
+tiktok_odkaz je "(https://tiktok.com/@renda0023".)
+youtube_odkaz je "(https://www.youtube.com/channel/UCdy-t3Vzr0FVQH5WcKQz_LAe".)
+facebook_odkaz je "(https://www.facebook.com/profile.php?id=100095361734301".)
+instagram_odkaz je "(https://www.instagram.com/rendy00723/".)
 
 
 # Sociální média sledujících
-YouTube = Jakub Papoušek "(https://youtube.com/@KubajsPV?si=_agTKwEVzV-rVTej")
+YouTube = Jakub Papoušek "(https://youtube.com/@KubajsPV?si=_agTKwEVzV-rVTej".)
 
 
 # Prosím, nevkládej odkazy do závorek. Chci, aby byly odkazy posílány ve formátu bez závorek. Děkuji!
 
 # Odstranění závorek z odkazů
 text = re.sub(r'\(([^)]+)\)', r'\1', text)
+
+text_without_punctuation = re.sub(r'(https?://\S+)[.,]*', r'\1', text)
+print(text_without_punctuation)
