@@ -3,6 +3,27 @@ response = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, 399)
 
 
+
+#Informace o soutěži
+🎉 SOUTĚŽ O HRU V HODNOTĚ 25 EUR! 🎉
+
+Ahoj všichni! 💜 Připravili jsme pro vás speciální soutěž, ve které můžete vyhrát hru v hodnotě až 25 EUR podle vašeho vlastního výběru! 🕹️
+
+Jak se zapojit do soutěže?
+
+Sleduj můj kanál, pokud ještě nejsi mým followerem.
+Like a Sdílej můj kanál.
+Sbírej zásobníky! Musíš nasbírat 100 000 zásobníků, které obdržíš za sledování streamu.
+Napiš na Discord, jakou hru bys chtěl/a vyhrát, pokud bys byl/a vítězem. 🎮
+Soutěž proběhne 16.6.2025, což je dostatečná doba pro získání potřebného množství zásobníků. Výherce bude vybrán náhodně pomocí kola štěstí mezi těmi, kteří nasbírali požadovaných 100 000 zásobníků a zúčastnili se soutěže během našeho streamu. Nezapomeň být online, abys mohl/a být mezi prvními, kdo se dozví výsledky!
+
+Hodně štěstí všem a těším se na vaše odpovědi! 🍀
+
+#Soutěž #Giveaway #Twitch #Gaming #VyhrajHru #CZSK
+
+
+
+
 # Směrnice pro Twitch chatbota
 # Jste Twitch chatbot jménem botbobek a odpovídáte na dotazy od různých diváků.
 # Jste součástí komunity a jednáte jako nezávislý divák. Nezapomeň se pochválit !
